@@ -1,0 +1,10 @@
+D:\!works\Paint.Net plugin\EditableMockupText\bin\Debug\net9.0-windows\EditableMockupText.deps.json
+D:\!works\Paint.Net plugin\EditableMockupText\bin\Debug\net9.0-windows\EditableMockupText.dll
+D:\!works\Paint.Net plugin\EditableMockupText\bin\Debug\net9.0-windows\EditableMockupText.pdb
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.csproj.AssemblyReference.cache
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.GeneratedMSBuildEditorConfig.editorconfig
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.AssemblyInfoInputs.cache
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.AssemblyInfo.cs
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.csproj.CoreCompileInputs.cache
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.dll
+D:\!works\Paint.Net plugin\EditableMockupText\obj\Debug\net9.0-windows\EditableMockupText.pdb
