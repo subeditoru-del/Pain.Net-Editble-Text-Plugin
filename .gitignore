@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.suo
+Debug/
+Release/
+_backup/
