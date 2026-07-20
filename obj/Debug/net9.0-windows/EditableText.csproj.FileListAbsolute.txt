@@ -1,5 +1,0 @@
-d:\!works\Paint.Net plugin\obj\Debug\net9.0-windows\EditableText.csproj.AssemblyReference.cache
-d:\!works\Paint.Net plugin\obj\Debug\net9.0-windows\EditableText.GeneratedMSBuildEditorConfig.editorconfig
-d:\!works\Paint.Net plugin\obj\Debug\net9.0-windows\EditableText.AssemblyInfoInputs.cache
-d:\!works\Paint.Net plugin\obj\Debug\net9.0-windows\EditableText.AssemblyInfo.cs
-d:\!works\Paint.Net plugin\obj\Debug\net9.0-windows\EditableText.csproj.CoreCompileInputs.cache
